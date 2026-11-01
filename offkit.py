@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 OffKit — modular offensive toolkit
-D3F4ULT
+D3F4UL7T
 
 Lab / authorized testing only.
 """
@@ -23,7 +23,7 @@ BANNER = r"""
 / /_/ // / /_/ (__  ) /__/ / / / / / /_
 \____//_/\____/____/\___/_/ /_/_/ /\__/
                                /_/
-  modular offensive toolkit  |  D3F4ULT
+  modular offensive toolkit  |  D3F4UL7T
 """
 
 MODULES = {
@@ -82,7 +82,7 @@ def run_module(name: str, args: list[str]) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser(
         prog="offkit",
-        description="OffKit — modular offensive toolkit (D3F4ULT)",
+        description="OffKit — modular offensive toolkit (D3F4UL7T)",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 examples:

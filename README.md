@@ -2,7 +2,7 @@
 
 Modular offensive toolkit for lab and authorized testing.
 
-D3F4ULT
+**Developed by [D3F4UL7T](https://github.com/D3F4UL7T)**
 
 ## Modules
 
@@ -68,3 +68,15 @@ OffKit/
 Continues prior work:
 
 Lab and authorized use only. Unauthorized access is illegal. Author assumes no liability for misuse.
+
+---
+
+## Credits
+
+**Developed by [D3F4UL7T](https://github.com/D3F4UL7T)**
+
+```
+root@D3F4ULT:~# whoami
+D3F4UL7T
+```
+
